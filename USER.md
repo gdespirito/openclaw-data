@@ -13,6 +13,8 @@
 - **Actual:** Full Stack Engineer @ AgendaPro (desde Mar 2025). Trabaja en el equipo **Chronos** (nombre clave): app móvil (Expo) del **marketplace** para clientes finales (buscar servicios). Es el primer foco fuerte de AgendaPro en **end-users** vs comercios (ya existe app de gestión para comercios).
 - **Rol en Chronos:** Entró más cargado a backend (contratado como backend), pero el equipo está migrando hacia perfiles más fullstack; a gonza le acomoda (viene de fullstack).
 - **Stack (alto nivel):** Microservicios mayormente Rails. BFF (único punto de contacto con la app) en Node.js + TypeScript. App móvil en Expo, 100% TypeScript.
+- **Foco por etapa:** Al llegar (~8–9 meses atrás) trabajó casi solo en el BFF; hoy está más en microservicios Rails (según necesidad).
+- **KPIs marketplace:** Meta a Nov: 10.000 bookings (lograda). Meta 2026: 100.000 bookings en 1 mes antes de diciembre.
 - **Antes:** Software Engineer @ Fintual (2022–2024).
 - **Mariana (+56967892397):** Prefiere que le digan “Mery”. Periodista; trabaja en el área de innovación de Normaliza (BCI). Tiene un departamento en Parque Bustamante.
 - **Hijos:** Santiago (7) y Rafa (3).
