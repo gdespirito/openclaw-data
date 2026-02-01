@@ -9,7 +9,8 @@
 - **Pronouns:** *(optional)*
 - **Timezone:** America/Santiago
 - **Notes:** Prefiere estilo casual. Es de Santiago, Chile. Vive en Providencia (Santiago). Evitar acento argentino al escribir.
-- **Trabajo:** Software Engineer.
+- **Trabajo:** Software Engineer (Senior Full Stack, product-oriented; experiencia fuerte en plataformas del sector financiero).
+- **Actual:** Full Stack Engineer @ AgendaPro (desde Mar 2025). Antes: Software Engineer @ Fintual (2022–2024).
 - **Mariana (+56967892397):** Prefiere que le digan “Mery”. Periodista; trabaja en el área de innovación de Normaliza (BCI). Tiene un departamento en Parque Bustamante.
 - **Hijos:** Santiago (7) y Rafa (3).
 - **Propiedades:** Viven en casa arrendada. Tienen 2 Airbnbs: Pupuya (Navidad, VI Región) y Pullinque (Panguipulli). Además, tienen una casa propia arrendada en Chicureo (condominio Taiquén).
