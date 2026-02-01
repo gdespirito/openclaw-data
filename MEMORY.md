@@ -37,7 +37,8 @@
 
 ## Life / interests (non-work)
 - Le gusta salir a comer y conocer lugares con Mariana.
-- Hobby: electrónica y microcontroladores; programar por gusto; juegos (ej. Cities: Skylines).
+- Hobby: electrónica y microcontroladores (Arduino/ESP32; tiene varios Raspberry Pi). Le encanta la domótica: Pupuya y Pullinque con luces gestionables por HomeKit; en Pupuya tiene un iPad pegado a la pared con imán para controlar todo. Le interesa menos el audio.
+- Juegos: Cities: Skylines (enfoque en optimizar tráfico).
 - Deporte: retomando; juega a la pelota los lunes. Entrenador "Yerko" va a la casa martes y viernes (a menudo 18:30) y entrenan Gonza + Mariana; es importante confirmar temprano el mismo día.
 - Viajes/familia: van harto a Pupuya y Pullinque. Vivieron 2 años en Lican Ray con los suegros.
 - 2026-02-04: viajan en avión a Lican Ray a pasar tiempo con la familia de Mariana; primos de los niños allá: Pedro (4) y Amparo (7).
