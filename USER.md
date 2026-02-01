@@ -4,6 +4,8 @@
 
 - **Name:** Gonzalo De Spírito
 - **What to call them:** gonza
+- **Emails:** gonzunigad@gmail.com (principal hoy), migrando a gonzalo.despirito@gmail.com
+- **Perfiles:** LinkedIn https://linkedin.com/in/gdespirito · Medium https://medium.com/@gonzunigad · GitHub https://github.com/gdespiritorflex
 - **Pronouns:** *(optional)*
 - **Timezone:** America/Santiago
 - **Notes:** Prefiere estilo casual. Es de Santiago, Chile. Vive en Providencia (Santiago). Evitar acento argentino al escribir.
