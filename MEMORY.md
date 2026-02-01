@@ -17,7 +17,7 @@
   - Pullinque (Panguipulli) — Airbnb listing room 709559641189941784; host appears as Gonza.
 - Ops notes (from reviews):
   - Pullinque: falta espejo en baño (feedback); revisar baranda terraza; avisar si hay mascota/perro en el entorno; acceso puede ser difícil para autos sin doble tracción.
-  - Pupuya: mantener PDF de instrucciones actualizado; llegada puede ser difícil sin video/instrucciones; revisar mantención/refurbish de hot tub.
+  - Pupuya: mantener PDF de instrucciones actualizado (incl. nota de cámaras); llegada puede ser difícil sin video/instrucciones; revisar temas de acceso/llaves/puerta y pequeños faltantes de cocina. Hot tub: se mencionó refurbish en reviews antiguos, pero Gonza ya lo arregló (tapa + asiento, con madera) hace un par de semanas.
 
 ## Online footprint (confirmed by user)
 - LinkedIn: https://linkedin.com/in/gdespirito
