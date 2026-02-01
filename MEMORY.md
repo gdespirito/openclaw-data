@@ -32,4 +32,16 @@
 
 ## Preferences / working agreement
 - Writing style: casual, Chilean-neutral; avoid Argentine tone.
-- User explicitly authorized broad investigation and use of connected accounts; still confirm before any external outbound action (sending email/messages/posts) to avoid unintended consequences.
+- User explicitly authorized broad investigation and use of connected accounts.
+- Igual: confirmar antes de cualquier acción externa irreversible o que lo exponga (enviar correos/mensajes a terceros, publicaciones, pagos, llamadas).
+
+## Life / interests (non-work)
+- Le gusta salir a comer y conocer lugares con Mariana.
+- Hobby: electrónica y microcontroladores; programar por gusto; juegos (ej. Cities: Skylines).
+- Deporte: retomando; juega a la pelota los lunes. Entrenador "Yerko" va a la casa martes y viernes (a menudo 18:30) y entrenan Gonza + Mariana; es importante confirmar temprano el mismo día.
+- Viajes/familia: van harto a Pupuya y Pullinque. Vivieron 2 años en Lican Ray con los suegros.
+- 2026-02-04: viajan en avión a Lican Ray a pasar tiempo con la familia de Mariana; primos de los niños allá: Pedro (4) y Amparo (7).
+
+## Personal finance / housing
+- Vivienda actual: casa arrendada; el dueño la publicará en venta. Están viendo comprarla (~10.300 UF) pero está complicado por relación ingresos/deuda.
+- Gonza indica que además tiene 2 deptos en Estación Central con hipotecario y la casa de Colina con hipotecario (además de la casa en Chicureo/Taiquén ya mencionada).
