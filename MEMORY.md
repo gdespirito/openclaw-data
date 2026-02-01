@@ -23,7 +23,7 @@
 - Medium: https://medium.com/@gonzunigad
 
 ## How Gonza is coding lately (signals from recent PRs)
-- Strong focus on operationalizing a **recommendations/scoring system** (Chronos) at AgendaPro:
+- Strong focus on operationalizing a **recommendations/scoring system** within the **Chronos** domain at AgendaPro (Chronos = nombre clave del equipo; app móvil del marketplace para clientes finales):
   - Works on backend pipelines: **precalculations**, **enrichers**, data syncing jobs.
   - Uses job processing + scheduling patterns (Sidekiq / sidekiq-cron style).
   - Invests in documentation/architecture (big README doc PR) alongside feature work.

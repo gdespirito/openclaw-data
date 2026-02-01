@@ -10,7 +10,8 @@
 - **Timezone:** America/Santiago
 - **Notes:** Prefiere estilo casual. Es de Santiago, Chile. Vive en Providencia (Santiago). Evitar acento argentino al escribir.
 - **Trabajo:** Software Engineer (Senior Full Stack, product-oriented; experiencia fuerte en plataformas del sector financiero).
-- **Actual:** Full Stack Engineer @ AgendaPro (desde Mar 2025). Antes: Software Engineer @ Fintual (2022–2024).
+- **Actual:** Full Stack Engineer @ AgendaPro (desde Mar 2025). Trabaja en el equipo **Chronos** (nombre clave): app móvil del **marketplace** para clientes finales (buscar servicios). Es el primer foco fuerte de AgendaPro en **end-users** vs comercios (ya existe app de gestión para comercios).
+- **Antes:** Software Engineer @ Fintual (2022–2024).
 - **Mariana (+56967892397):** Prefiere que le digan “Mery”. Periodista; trabaja en el área de innovación de Normaliza (BCI). Tiene un departamento en Parque Bustamante.
 - **Hijos:** Santiago (7) y Rafa (3).
 - **Propiedades:** Viven en casa arrendada. Tienen 2 Airbnbs: Pupuya (Navidad, VI Región) y Pullinque (Panguipulli). Además, tienen una casa propia arrendada en Chicureo (condominio Taiquén).
