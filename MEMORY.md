@@ -15,6 +15,9 @@
 - Two Airbnbs:
   - Pupuya (Navidad, VI Región) — Airbnb listing room 16897504; host appears as Mariana.
   - Pullinque (Panguipulli) — Airbnb listing room 709559641189941784; host appears as Gonza.
+- Ops notes (from reviews):
+  - Pullinque: falta espejo en baño (feedback); revisar baranda terraza; avisar si hay mascota/perro en el entorno; acceso puede ser difícil para autos sin doble tracción.
+  - Pupuya: mantener PDF de instrucciones actualizado; llegada puede ser difícil sin video/instrucciones; revisar mantención/refurbish de hot tub.
 
 ## Online footprint (confirmed by user)
 - LinkedIn: https://linkedin.com/in/gdespirito
