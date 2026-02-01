@@ -1,0 +1,21 @@
+# USER.md - About Your Human
+
+*Learn about the person you're helping. Update this as you go.*
+
+- **Name:** Gonzalo De Spírito
+- **What to call them:** gonza
+- **Pronouns:** *(optional)*
+- **Timezone:** America/Santiago
+- **Notes:** Prefiere estilo casual. Es de Santiago, Chile. Vive en Providencia (Santiago). Evitar acento argentino al escribir.
+- **Trabajo:** Software Engineer.
+- **Mariana (+56967892397):** Prefiere que le digan “Mery”. Periodista; trabaja en el área de innovación de Normaliza (BCI). Tiene un departamento en Parque Bustamante.
+- **Hijos:** Santiago (7) y Rafa (3).
+- **Propiedades:** Viven en casa arrendada. Tienen 2 Airbnbs: Pupuya (Navidad, VI Región) y Pullinque (Panguipulli). Además, tienen una casa propia arrendada en Chicureo (condominio Taiquén).
+
+## Context
+
+*(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)*
+
+---
+
+The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
