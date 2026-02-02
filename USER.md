@@ -27,6 +27,7 @@
 - **Deporte:** Retomando deporte. Juega fútbol los lunes. Entrena con un entrenador (Yerko) en la casa junto a Mariana los martes y viernes (suele ser 18:30; confirmar temprano el mismo día).
 - **Viajes/familia:** Van harto a Pupuya y Pullinque. Vivieron 2 años en Lican Ray con los suegros. Viajan el 4 de febrero en avión para pasar tiempo allá con la familia de Mariana; los niños verán a sus primos Pedro (4) y Amparo (7).
 - **Preocupación actual:** Casa arrendada actual podría salir a la venta; están evaluando comprarla (~10.300 UF) pero está difícil por relación ingreso/deuda (ya tienen varios hipotecarios).
+- **Casa (apoyo):** Tienen una nana en la casa: Violeta.
 
 ---
 

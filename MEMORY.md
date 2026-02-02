@@ -8,6 +8,7 @@
 ## Family
 - Partner: Mariana ("Mery"). Journalist; works in innovation at Normaliza (BCI). Owns/has an apartment in Parque Bustamante.
 - Kids: Santiago (born ~2018; 7y) and Rafa (born ~2022; 3y).
+- Home help: tienen una nana en la casa llamada Violeta; pendiente pago de imposiciones.
 
 ## Properties / hosting
 - Current home: rented house.
