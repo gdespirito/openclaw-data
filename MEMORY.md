@@ -25,6 +25,9 @@
 - GitHub (secondary): https://github.com/gdespiritorflex
 - Medium: https://medium.com/@gonzunigad
 
+## Travel / airlines
+- SKY Plus Platino vigente hasta 2026-02-26 (beneficios incluyen maleta gratis 23kg).
+
 ## How Gonza is coding lately (signals from recent PRs)
 - Strong focus on operationalizing a **recommendations/scoring system** within the **Chronos** domain at AgendaPro (Chronos = nombre clave del equipo; app móvil del marketplace para clientes finales; usan Expo/TS; BFF Node.js/TypeScript; microservicios Rails). Aunque entró muy cargado al BFF, hoy está más en Rails (según necesidad):
   - Works on backend pipelines: **precalculations**, **enrichers**, data syncing jobs.
