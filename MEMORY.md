@@ -11,7 +11,7 @@
 - Home help: tienen una nana en la casa llamada Violeta; pendiente pago de imposiciones.
 
 ## Properties / hosting
-- Current home: rented house.
+- Current home: rented house on Diego de Almagro 2350, Casa C, Providencia.
 - Owns a house rented out in Chicureo (condominio Taiquén).
 - Two Airbnbs:
   - Pupuya (Navidad, VI Región) — Airbnb listing room 16897504; host appears as Mariana.
@@ -40,7 +40,10 @@
 ## Preferences / working agreement
 - Writing style: casual, Chilean-neutral; avoid Argentine tone.
 - User explicitly authorized broad investigation and use of connected accounts.
-- Igual: confirmar antes de cualquier acción externa irreversible o que lo exponga (enviar correos/mensajes a terceros, publicaciones, pagos, llamadas).
+- Memory policy: save important events and context by default (user approved). Agent should process recent daily memory files and suggest stable entries for MEMORY.md.
+- Confirmations: generally avoid asking for confirmation for routine internal actions; for destructive actions (delete, publish, send money) back up or create a reversible step and then proceed only if safe.
+- External actions (sending emails, messages to third parties, payments, calls): agent should confirm unless the user explicitly pre-authorizes.
+
 
 ## Life / interests (non-work)
 - Le gusta salir a comer y conocer lugares con Mariana.

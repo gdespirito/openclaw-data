@@ -4,6 +4,7 @@
 
 - **Name:** Gonzalo De Spírito
 - **What to call them:** gonza
+- **Preferred display name (confirmed):** gonza
 - **Emails:** gonzunigad@gmail.com (principal hoy), migrando a gonzalo.despirito@gmail.com
 - **Perfiles:** LinkedIn https://linkedin.com/in/gdespirito · Medium https://medium.com/@gonzunigad · GitHub https://github.com/gdespirito
 - **Pronouns:** *(optional)*

@@ -1,0 +1,6 @@
+{
+  "createdAt": "2026-02-05T23:58:00-03:00",
+  "reminderJobId": "3960ddfa-9c2a-4d12-b9e9-91e22d0bc496",
+  "followupJobId": "01ae5656-602e-4551-bfdf-86d418adbc73",
+  "note": "If Gonza replies 'ok' before follow-up fires, remove follow-up job."
+}
